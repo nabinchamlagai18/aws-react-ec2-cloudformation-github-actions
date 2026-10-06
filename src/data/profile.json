@@ -1,7 +1,7 @@
 {
   "name": "Nabin",
   "tagline": "DevOps & Cloud Engineer in the making ",
-  "photo": "profile.png",
+  "photo": "yoyo.png",
   "roll": "4447",
   "department": "Computer Engineering",
   "year": "2020",
@@ -10,8 +10,8 @@
   "about": "I automate things so I don't have to do them twice, then spend three hours debugging the automation. My pipelines are green, my coffee is strong, and \"it works on my machine\" is no longer an excuse, because I put my machine in a Docker container.",
   "skills": ["Linux", "Git", "GitHub Actions", "Docker", "Jenkins", "AWS", "CloudFormation", "Nginx", "React"],
   "links": {
-    "github": "https://github.com/Sammy4447",
-    "linkedin": "www.linkedin.com/in/er-sameer-bhatt-905562232"
+    "github": "https://github.com/nabinchamlagai18",
+    "linkedin": "www.linkedin.com/in/nabinchamlagai"
   },
   "quotes": [
     "Stay hungry, stay foolish.",
